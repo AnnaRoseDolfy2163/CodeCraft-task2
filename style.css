@@ -1,0 +1,60 @@
+h1{
+    text-align: center;
+}
+#sub{
+    text-align: center;
+    font-size: larger;
+    font-style: oblique;
+}
+#desc{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.mainbox{
+    width: 377px;
+    height: 502px;
+    background-color: white;
+    margin-top: 36px;
+    margin-left: 400px;
+    border-radius: 25px;
+    border: 3px solid;
+    
+}
+body{
+    background-color: blanchedalmond;
+}
+#profile{
+    width: 160px;
+    height: 160px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+}
+.outer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    gap: 2px;
+}
+.box{
+    width: 20%;
+    height: 20%;
+    background-color: #5cbded;
+    padding: 5px;
+    text-align: center;
+    margin: 12px;
+    border-radius: 25px;
+}
+#git{
+    padding-left: 119px;
+    width: 56px;
+    height: 40px;
+}
+#link{
+    padding-left: 10px;
+    width:51px;
+    height: 37px;
+}
